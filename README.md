@@ -12,7 +12,7 @@
 ## Tecnologias utilizadas
 * Java
 * Spring Boot
-* React
+* React + Typescript
 * Postgres
 
 ## Features
