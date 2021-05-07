@@ -32,13 +32,12 @@ This project was developed using the following technologies:
 
 ## Building
 
-You'll need [Java 11+](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) installed on your computer in order to build this app.
-
+You'll need [Java 11+](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) and [Maven](https://maven.apache.org/download.cgi) installed on your computer in order to build this app.
 
 ```bash
 git clone https://github.com/eric-souzams/dsdeliver.git
 $ cd dsdeliver/backend
-$ ./mvn spring-boot:run
+$ mvn spring-boot:run
 ```
 
 ---
@@ -51,7 +50,7 @@ This project was developed using the following technologies:
 
 ## Building
 
-You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
+You'll need [Node.js](https://nodejs.org) and [Yarn](https://classic.yarnpkg.com/en/docs/install/) installed on your computer in order to build this app.
 
 ```bash
 git clone https://github.com/eric-souzams/dsdeliver.git
